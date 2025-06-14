@@ -1,4 +1,4 @@
-# SQL‑Python Ecommerce Analysis
+# Ecomlytics
 
 A comprehensive end‑to‑end data analysis pipeline using **SQL** and **Python** (Jupyter Notebook) to explore ecommerce data, extract insights, and visualize key business metrics.
 
