@@ -57,8 +57,8 @@ A comprehensive end‑to‑end data analysis pipeline using **SQL** and **Python
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Ayushi0214/SQL-Python-Ecommerce-Project.git
-   cd SQL-Python-Ecommerce-Project
+   git clone <your-repo-url>
+   cd Ecomlytics
    ```
 
 2. **Install dependencies**  
@@ -108,10 +108,5 @@ Contributions, suggestions, and pull requests are welcome. Feel free to raise is
 
 ## 🧍 Author
 
-Created by **Ayushi Jain**, Data Analytics Mentor.
+Built and maintained by **Tushar Chaudhary**.
 
----
-
-## ⚖️ License
-
-This repository is open source. Feel free to reuse and modify its components.
